@@ -15,7 +15,7 @@ Java (x64) is required to run both Apache Zookeeper and Kafka. Please ensure tha
 https://zookeeper.apache.org/
 
 
-### Apache Kafka 2.11
+### Apache Kafka 2.1.1
 https://kafka.apache.org/
 
 ## Running the sample code
